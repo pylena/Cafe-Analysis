@@ -1,5 +1,5 @@
 # Cafe-Analysis
-This project focuses on analyzing café sales data to identify the most popular product combinations and optimize combo offers. Additionally, a user-based recommendation system has been developed to suggest café products tailored to customer preferences, enhancing the customer experience and driving sales.
+This project focuse on analyzing café sales data to identify the most popular product combinations and optimize combo offers. Additionally, a user-based recommendation system has been developed to suggest café products tailored to customer preferences, enhancing the customer experience and driving sales.
 ## Problem Statement
 * What are the most popular product combinations purchased by customers?
 * How can we optimize combo offers to increase sales?
@@ -17,7 +17,7 @@ The project follows the standard steps of a data analysis workflow:
 
 * Developing a recommendation system: Building a user-based recommendation model using customer preferences.
 
-* Visualizing and communicating results: Presenting insights and findings through an interactive Streamlit web application and Plotly visualizations.
+* Visualizing and communicating results: Presenting insights and findings.
 
 ### Outcomes
-<a href="https://cafe-recommendation.streamlit.app/">Click Here To Try the recommendation System </a>.
+<a href="https://cafe-recommendation.streamlit.app/">Click here to try the recommendation system </a>.
