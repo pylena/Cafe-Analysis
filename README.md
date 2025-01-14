@@ -21,3 +21,5 @@ The project follows the standard steps of a data analysis workflow:
 
 ### Outcomes
 <a href="https://cafe-recommendation.streamlit.app/">Click here to try the recommendation system </a>.
+<a href="https://www.canva.com/design/DAGXkdQCFs0/XksEyyycnq7AVg2Fa1M2LA/edit?utm_content=DAGXkdQCFs0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">Click here to read the report  </a>.
+
